@@ -1,4 +1,4 @@
-# Generare una password sicura con i dati forniti dall'utente.
+# Generare una password "insicura" con i dati forniti dall'utente.
 
 Chiedere all'utente il suo nome e cognome e il suo colore preferito è generare una password "nomecognomecolorepreferito" +  la stringa "21"
 
@@ -14,6 +14,11 @@ Chiedere all'utente il suo nome e cognome e il suo colore preferito è generare 
 - **3**
   - Chiedere all'utente tramite il prompt il suo colore preferito.
    - salvare il dato in una variabile.
+- **4**
+  - generare la password tramite un stringa di codice (+)
+
+- **5**
+  - Passare la password all'elemento del DOM 
 
 
 
